@@ -4,7 +4,7 @@ A trial for singleScreen quiz app in flutter.
 
 ## 📸 ScreenShots
 
-|<img src="ScreenShots/Image1.png" width="300"><img src="ScreenShots/Image2.png" width="303"><img src="ScreenShots/Image3.png" width="306">
+|<img src="ScreenShots/Image1.png" width="220"><img src="ScreenShots/Image2.png" width="222"><img src="ScreenShots/Image3.png" width="224">
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
